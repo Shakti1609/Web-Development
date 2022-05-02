@@ -1,0 +1,5 @@
+Developed By Vishal Pawar.
+
+This dashboard is developed for the prediction of car sales in a year.
+It is just a one side showcase dummy dashboard that is resemblance of real prediction statistical analysis.
+
